@@ -1,2 +1,2 @@
 # Realistic Rendering Empty
-Empty project for realistic rendering
+Empty project from realistic rendering EU4.8.3 template
